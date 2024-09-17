@@ -1,0 +1,18 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+<<<<<<< HEAD
+=======
+docker-compose.override.yml
+>>>>>>> dc6d2954af9e7d7d3fe3866d42dcdaed0a358a3f
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
